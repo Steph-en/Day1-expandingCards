@@ -21,5 +21,3 @@ function removeActiveClasses() {
             }
         )
 }
-
-console.log(panel[1]);
